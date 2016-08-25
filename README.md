@@ -10,6 +10,7 @@ http://localhost:8080/SpringRestSecurityOauth/oauth/token?grant_type=password&cl
 
 
 2) Server validates the user with help of spring security, and if the user is authenticated, OAuth generates a access token and send sends back to user in following format.
+
 {
 "access_token": "22cb0d50-5bb9-463d-8c4a-8ddd680f553f",
 "token_type": "bearer",
