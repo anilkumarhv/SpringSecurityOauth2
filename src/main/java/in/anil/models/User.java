@@ -1,4 +1,4 @@
-package com.beingjavaguys.models;
+package in.anil.models;
 /**
  * @author Nagesh.Chauhan
  *

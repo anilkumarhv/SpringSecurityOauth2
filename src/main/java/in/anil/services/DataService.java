@@ -1,8 +1,9 @@
-package com.beingjavaguys.services;
+package in.anil.services;
 
 import java.util.List;
 
-import com.beingjavaguys.models.User;
+import in.anil.models.User;
+
 /**
  * @author Nagesh.Chauhan
  *
